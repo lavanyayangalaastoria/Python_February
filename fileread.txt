@@ -1,0 +1,3 @@
+Hello
+Welcome to file read and write io operations
+python fundamentals part 3
