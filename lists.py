@@ -2,7 +2,7 @@ list_declaration = ['megha','lavanya','priya','sridevi','ramadevi','anuja','jais
 print(list_declaration)
 #we can change list in this manner.
 print(list_declaration[0])
-list_declaration[1] = 'j'
+list_declaration[1] = 'o'
 print(list_declaration)
 #lists allow duplicates.
 print(len(list_declaration))
