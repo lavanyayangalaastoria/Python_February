@@ -9,6 +9,7 @@ print(len(list_declaration))
 #lists can contain different datatypes.
 lis1 = ['f',4,'jj']
 print(lis1)
+
 print(type(lis1))
 thislist = list((3,'k',"m",'k'))
 print(type(thislist))
